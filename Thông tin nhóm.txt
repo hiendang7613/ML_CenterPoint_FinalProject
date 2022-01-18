@@ -1,0 +1,41 @@
+Thành viên nhóm:
+18120647 - Lê Thanh Viễn
+18120363 - Đặng Văn Hiển
+18120526 - Ngô Đăng Quang
+18120527 - Nguyễn Đăng Quang
+
+Học máy là một lĩnh vực của trí tuệ nhân tạo liên quan đến việc nghiên cứu và xây dựng các kĩ thuật cho phép các hệ thống "học" tự động từ dữ liệu để giải quyết những vấn đề cụ thể. Hôm nay, nhóm 4 thành viên bọn em xin được trình bày về một ứng dụng rất phổ biến của ML trong đời sống, đó là theo dõi và nhận diện đối tượng 3D dựa trên trung tâm.
+
+Theo dõi: chú ý quan sát (thường là kín đáo, bí mật) từng hoạt động, từng diễn biến để biết rõ hoặc để có sự ứng phó, xử lí kịp thời. Nhận diện: nhìn để nhận ra, chỉ ra đối tượng đang che giấu tung tích hay đối tượng đang cần tìm
+
+Đám mây điểm: là một số lượng lớn các điểm dữ liệu nhỏ tồn tại trong ba chiều.
+
+Heuristic: các kỹ thuật dựa trên kinh nghiệm để giải quyết vấn đề, học hỏi hay khám phá nhằm đưa ra một giải pháp mà không được đảm bảo là tối ưu.
+
+Metaheuristic: Phương pháp tối ưu bầy đàn, đàn kiến; tìm kiếm Tabu; mô phỏng ủ
+
+Điểm neo: width/2, height/2
+
+Lidar: Một phương pháp khảo sát đo khoảng cách tới mục tiêu bằng cách chiếu sáng mục tiêu đó bằng một tia laze xung quanh và đo các xung phản xạ bằng một cảm biến. Sự khác biệt về thời gian và bước sóng laser sau đó có thể được sử dụng để tạo mô hình số 3 chiều (3D) của đối tượng.
+
+F: Focal Distance (tiêu cự)
+
+VoxelNet: Biểu diễn mạng lưới điểm ảnh 3 chiều.
+
+PointPillars: Biểu diễn các đám mây điểm được tổ chức theo các cột dọc (trụ)
+
+Hồi quy: phân tích thống kê để xác định xem các biến độc lập quy định các biến phụ thuộc như thế nào.
+
+Hồi quy hộp giới hạn: một kỹ thuật phổ biến để tinh chỉnh hoặc dự đoán các hộp bản địa hóa trong các cách tiếp cận phát hiện đối tượng gần đây. Về cơ bản, các bộ hồi quy hộp giới hạn được huấn luyện để hồi quy từ các đề xuất vùng hoặc hộp neo cố định đến các hộp giới hạn lân cận của một lớp đối tượng mục tiêu được xác định trước.
+
+Góc quay yaw: để miêu tả như một định hướng trong không gian ba chiều Euclide theo ba tham số được yêu cầu
+
+Bản đồ nhiệt: một kỹ thuật trực quan hóa dữ liệu thể hiện độ lớn của một hiện tượng dưới dạng màu sắc theo hai chiều. Sự thay đổi về màu sắc có thể là theo màu sắc hoặc cường độ, mang lại những dấu hiệu thị giác rõ ràng cho người đọc về cách hiện tượng được nhóm lại hoặc thay đổi theo không gian.
+
+Multilayer Perceptron (MLP). ... Một Perceptron nhiều lớp (MLP) là một mạng lưới thần kinh nhân tạo feedforward mà tạo ra một tập hợp các kết quả đầu ra từ một tập hợp các nguyên liệu đầu vào.
+
+Perceptron: một thuật toán phân loại cho trường hợp đơn giản nhất: chỉ có hai lớp và cũng chỉ hoạt động được trong một trường hợp rất cụ thể.
+
+Intersection over Union: chỉ số đánh giá được sử dụng để đo độ chính xác của Object detector trên tập dữ liệu cụ thể
+
+Trong bối cảnh phân loại hình ảnh, dữ liệu đầu vào của chúng ta là tập dữ liệu hình ảnh của chúng ta. Việc ghi hàm tạo dự đoán cho một hình ảnh đầu vào nhất định. Hàm mất sau đó định lượng mức độ tốt hoặc xấu một tập hợp các dự đoán là trên tập dữ liệu.
